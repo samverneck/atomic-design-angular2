@@ -1,4 +1,4 @@
-# atomic-design-angular2
+# Atomic Design Angular2
 
 <img src="http://atomicdesign.bradfrost.com/images/content/atomic-design-process.png">
 
