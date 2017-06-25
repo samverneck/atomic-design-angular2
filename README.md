@@ -12,3 +12,4 @@ O design atômico é o seguinte você faz a sua aplicação ou melhor a estrutur
 * template
 * page
  
+Que viagem né? Então vocês me perguntam e até podem parar e se perguntarem,mas o angular 2 já tem sua estrutura padrão que é conhecida como ```CLI``` é ai que vamos melhorar tudo, tudo bem pra vocês? Pq não criarmos isso tudo em uma parada louco chamada **Atomic Design**
